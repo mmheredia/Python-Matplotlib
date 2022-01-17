@@ -1,6 +1,6 @@
 # Data Visualization with Python Matplotlib
 
-<img src="Images/laboratory.jpg" width="100%" align="center"/>
+<img src="images/laboratory.jpg" width="100%" align="center"/>
 
 ## Description
 
