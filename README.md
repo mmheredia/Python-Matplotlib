@@ -1,6 +1,6 @@
 # Data Visualization with Python Matplotlib
 
-![Laboratory Logo](images/laboratory.jpg)
+<img src="Images/laboratory.jpg" width="100%" align="center"/>
 
 ## Description
 
